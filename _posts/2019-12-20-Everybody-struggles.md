@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup PSTORE with Qemu (Everybody struggles)
+title: Everybody struggles
 ---
 
 The purpose of this post is to affirm that it is okay to get stuck, seek help and struggle during the Outreachy internship (and ofcourse, it is okay to struggle outside of the internship too :)). Here is how I struggled with setting up Qemu during the contribution period.
